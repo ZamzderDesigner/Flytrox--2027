@@ -1,0 +1,212 @@
+{
+  "destinations": [
+    {
+      "_id": "dest-lakshadweep-maldives",
+      "name": "Lakshadweep & Maldives",
+      "country": "Indian Ocean Atolls",
+      "tagline": "Turquoise coral lagoons, private island resorts, and glass-bottom reef excursions.",
+      "imageUrl": "/src/assets/images/dest_maldives_lakshadweep_1795102316928.jpg",
+      "startingPrice": 38500,
+      "badgeText": "Island Escape",
+      "rating": 4.9,
+      "isPopular": true
+    },
+    {
+      "_id": "dest-dubai",
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "tagline": "Marina yacht cruises, architectural icons, golden desert safaris, and seamless e-visas.",
+      "imageUrl": "/src/assets/images/dest_dubai_skyline_1795102608934.jpg",
+      "startingPrice": 49900,
+      "badgeText": "Top International",
+      "rating": 4.9,
+      "isPopular": true
+    },
+    {
+      "_id": "dest-kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "tagline": "Petronas skyline nights, Batu Caves heritage, Genting highlands, and vibrant street markets.",
+      "imageUrl": "/src/assets/images/dest_kuala_lumpur_1795102410344.jpg",
+      "startingPrice": 44000,
+      "badgeText": "Best Value",
+      "rating": 4.8,
+      "isPopular": true
+    },
+    {
+      "_id": "dest-kashmir",
+      "name": "Kashmir Valley",
+      "country": "Jammu & Kashmir, India",
+      "tagline": "Sunrise Shikara glides on Dal Lake, snow-dusted Gulmarg slopes, and cedar houseboats.",
+      "imageUrl": "/src/assets/images/pkg_kashmir_dallake_1795102357870.jpg",
+      "startingPrice": 19999,
+      "badgeText": "Domestic Favorite",
+      "rating": 4.9,
+      "isPopular": false
+    },
+    {
+      "_id": "dest-munnar",
+      "name": "Munnar & Wayanad",
+      "country": "Kerala, India",
+      "tagline": "Misty emerald tea estates, spice trails, boutique hillside villas, and tranquil backwaters.",
+      "imageUrl": "/src/assets/images/pkg_munnar_kerala_1795102309915.jpg",
+      "startingPrice": 28000,
+      "badgeText": "Nature Retreat",
+      "rating": 4.8,
+      "isPopular": false
+    },
+    {
+      "_id": "dest-bali",
+      "name": "Ubud & Seminyak",
+      "country": "Bali, Indonesia",
+      "tagline": "Emerald rice terraces, clifftop temples, private pool villas, and curated island transfers.",
+      "imageUrl": "/src/assets/images/dest_bali_ubud_1795102362802.jpg",
+      "startingPrice": 48900,
+      "badgeText": "Honeymoon Pick",
+      "rating": 4.9,
+      "isPopular": false
+    }
+  ],
+  "packages": [
+    {
+      "_id": "pkg-kashmir-dal-lake",
+      "title": "Kashmir Dal Lake & Gulmarg Panorama",
+      "destination": "Srinagar, Gulmarg & Pahalgam",
+      "category": "Domestic",
+      "duration": "5 Days / 4 Nights",
+      "paxLabel": "2–6 Travelers",
+      "priceINR": 12000,
+      "imageUrl": "/src/assets/images/pkg_kashmir_dallake_1795102357870.jpg",
+      "highlights": [
+        "Deluxe Srinagar houseboat stay with sunrise Shikara ride",
+        "Private heated cab for Gulmarg Gondola & Pahalgam valleys",
+        "Daily Kashmiri breakfast & dinner with paperless vouchers"
+      ],
+      "rating": 4.9,
+      "reviewsCount": 164,
+      "isPopular": true,
+      "isFeatured": true
+    },
+    {
+      "_id": "pkg-munnar-kerala-hills",
+      "title": "Munnar Tea Estates & Kerala Backwaters",
+      "destination": "Munnar, Thekkady & Alleppey",
+      "category": "Domestic",
+      "duration": "5 Days / 4 Nights",
+      "paxLabel": "2–8 Travelers",
+      "priceINR": 28000,
+      "imageUrl": "/src/assets/images/pkg_munnar_kerala_1795102309915.jpg",
+      "highlights": [
+        "Boutique hill resort overlooking misty emerald tea slopes",
+        "Overnight private Alleppey houseboat with curated Kerala cuisine",
+        "Eravikulam sanctuary & Periyar spice plantation guided trail"
+      ],
+      "rating": 4.9,
+      "reviewsCount": 138,
+      "isPopular": true,
+      "isFeatured": true
+    },
+    {
+      "_id": "pkg-goa-coastal-escape",
+      "title": "Goa Sun-Drenched Coastal Escape",
+      "destination": "South & North Goa, India",
+      "category": "Domestic",
+      "duration": "4 Days / 3 Nights",
+      "paxLabel": "2–10 Travelers",
+      "priceINR": 16500,
+      "imageUrl": "/src/assets/images/pkg_goa_coast_1795102319806.jpg",
+      "highlights": [
+        "4-star palm-lined beach resort with buffet breakfast",
+        "Private airport transfers, Fontainhas heritage walk & sunset cruise",
+        "Curated beach club recommendations & 24/7 WhatsApp concierge"
+      ],
+      "rating": 4.8,
+      "reviewsCount": 192,
+      "isPopular": true,
+      "isFeatured": true
+    },
+    {
+      "_id": "pkg-kuala-lumpur-malaysia",
+      "title": "Kuala Lumpur & Genting Highlands Discovery",
+      "destination": "Kuala Lumpur & Genting, Malaysia",
+      "category": "International",
+      "duration": "5 Days / 4 Nights",
+      "paxLabel": "2–6 Travelers",
+      "priceINR": 44000,
+      "imageUrl": "/src/assets/images/dest_kuala_lumpur_1795102410344.jpg",
+      "highlights": [
+        "Central 4-star KLCC hotel stay with daily breakfast",
+        "Petronas Twin Towers photo stop, Batu Caves & Awana SkyWay",
+        "Return airport transfers, digital itinerary & e-visa guidance"
+      ],
+      "rating": 4.8,
+      "reviewsCount": 117,
+      "isPopular": true,
+      "isFeatured": true
+    },
+    {
+      "_id": "pkg-dubai-skyline-desert",
+      "title": "Dubai Marina Skyline & Desert Dunes",
+      "destination": "Dubai & Abu Dhabi, UAE",
+      "category": "International",
+      "duration": "5 Days / 4 Nights",
+      "paxLabel": "2–8 Travelers",
+      "priceINR": 52500,
+      "imageUrl": "/src/assets/images/dest_dubai_skyline_1795102608934.jpg",
+      "highlights": [
+        "30-day UAE tourist visa & travel insurance assistance included",
+        "Burj Khalifa 124th floor entry, Marina Dhow dinner & desert safari",
+        "Private AC transfers with 24/7 ground support desk"
+      ],
+      "rating": 4.9,
+      "reviewsCount": 151,
+      "isPopular": false,
+      "isFeatured": true
+    },
+    {
+      "_id": "pkg-bali-ubud-sanctuary",
+      "title": "Bali Ubud Terraces & Coastal Sanctuary",
+      "destination": "Ubud & Seminyak, Indonesia",
+      "category": "International",
+      "duration": "6 Days / 5 Nights",
+      "paxLabel": "2–6 Travelers",
+      "priceINR": 48900,
+      "imageUrl": "/src/assets/images/dest_bali_ubud_1795102362802.jpg",
+      "highlights": [
+        "Private pool villa in Ubud + beachfront resort in Seminyak",
+        "Tegalalang rice terraces, Uluwatu sunset & Nusa Penida day boat",
+        "All private island transfers and seamless paperless boarding docs"
+      ],
+      "rating": 4.9,
+      "reviewsCount": 109,
+      "isPopular": false,
+      "isFeatured": true
+    }
+  ],
+  "inquiries": [
+    {
+      "_id": "inq-01b764ad",
+      "fullName": "Johon",
+      "email": "johoin@gmail.com",
+      "phone": "273826793928",
+      "packageId": "pkg-dubai-skyline-desert",
+      "packageTitle": "Dubai Marina Skyline & Desert Dunes",
+      "destination": "Dubai & Abu Dhabi, UAE",
+      "travelDate": "2030-12-12",
+      "travelersCount": 2,
+      "message": "Dubai package details",
+      "status": "Booked",
+      "createdAt": "2026-11-20T02:48:46.188Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "email": "concierge@flytroxtravels.in",
+      "subscribedAt": "2026-11-19T15:59:06.625Z"
+    },
+    {
+      "email": "ali@gmail.com",
+      "subscribedAt": "2026-11-20T02:47:06.720Z"
+    }
+  ]
+}

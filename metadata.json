@@ -1,0 +1,6 @@
+{
+  "name": "Flytrox Tours & Travels",
+  "description": "Curated domestic and international holiday packages, global flight ticketing, and seamless paperless travel management by Flytrox Tours & Travels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
